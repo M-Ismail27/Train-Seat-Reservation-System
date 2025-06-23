@@ -69,5 +69,5 @@ This project is for educational purposes and is open to modification or extensio
 
 ## 👋 Author
 
-**Mohammad Ismail**  
+**Muhammad Ismail**  
 Beginner in C++ programming and problem-solving.
